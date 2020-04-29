@@ -10,8 +10,7 @@ Standardiser un jeu de donnée est une étape parfois nécessaire, voir primordi
 
 POUR RAPPEL: _La qualité des données **détermine** la qualité de notre modèle._
 
-
-
+#
 
 Le calcul de la standardisation ramène toutes nos valeurs observées à des valeurs donc dites standardisées
 
@@ -19,8 +18,8 @@ Le calcul de la standardisation ramène toutes nos valeurs observées à des val
  
  voir ![variable centrée réduite](https://fr.wikipedia.org/wiki/Variable_centr%C3%A9e_r%C3%A9duite)
  
- 
- 
+ #
+ #
  
 Nous suivons les 3 étapes suivantes : 
 
